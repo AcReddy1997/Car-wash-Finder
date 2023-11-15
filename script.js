@@ -13,7 +13,7 @@
                 services: ["Exterior Wash", "Vacuuming", "Polishing"],
                 phone: "987-654-3210",
                 email: "carwash2@example.com",
-                image: "2.jpg",
+                image: "1.jpg",
             },
             {
                 name: "Carwash Location 3",
@@ -21,7 +21,7 @@
                 services: ["Full Service Wash", "Interior Detailing"],
                 phone: "555-123-4567",
                 email: "carwash3@example.com",
-                image: "3.jpg",
+                image: "1.jpg",
             },
             {
                 name: "Carwash Location 4",
@@ -29,7 +29,7 @@
                 services: ["Full Service Wash", "Interior Detailing"],
                 phone: "555-123-1355",
                 email: "carwash3@example.com",
-                image: "4.jpg",
+                image: "1.jpg",
             },
             {
                 name: "Carwash Location 5",
